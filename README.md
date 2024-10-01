@@ -11,24 +11,24 @@
    git clone https://github.com/ваш_пользователь/IDID.git
    cd IDID
 2. **Скачайте датасет:**
-   '''bash
+   ```bash
    Ссылка на датасет
 4. **Создайте виртуальное окружение:**
-   '''bash
+   ```bash
    python -m venv env
 5. **Активируйте виртуальное окружение**
-   '''bash
+   ```bash
    ./env/Scripts/activate(Windows)
    source env/bin/activate(Linux)
 6. **Выберите kernel вашего виртуального окружения в вашей IDE.**
 7. **Установите необходимую библиотеку:**
-   '''bash
+   ```bash
    pip install ultralytics
 8. **Укажите путь к вашему датасету: В файле C:\Users\abyla\AppData\Roaming\Ultralytics\settings укажите путь к вашему датасету**
-   '''bash
+   ```bash
    "C:/Users/abyla/OneDrive/Рабочий стол/project/dataset"
 9. **Настройте файл data.yaml: В файле data.yaml указать путь для train, val , test.**
-   '''bash
+   ```bash
    train: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\train
    val: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\val
    test: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\test
