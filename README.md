@@ -35,19 +35,21 @@
 10 **Установить cuda для вашей видеокарты Например(для rtx 3060)**
    ```bash
    pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-Для других видеокарт можете посмотреть по ссылке
+   Для других видеокарт можете посмотреть по ссылке
    https://pytorch.org/get-started/locally/
+
 11 **Структура проекта**
-project
--dataset
---images
----train
----test
----val
---labels
----train
----test
----val
---data.yaml
--yolo.ipynb
+   ```bash
+   project
+   -dataset
+   --images
+   ---train
+   ---test
+   ---val
+   --labels
+   ---train
+   ---test
+   ---val
+   --data.yaml
+   -yolo.ipynb
 12. **Запустите файл yolo.ipynb**
