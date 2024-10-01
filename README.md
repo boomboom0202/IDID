@@ -8,7 +8,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш_пользователь/IDID.git
+   git clone https://github.com/boomboom0202/IDID.git
    cd IDID
 2. **Скачайте датасет:**
    ```bash
