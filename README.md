@@ -32,3 +32,9 @@
    train: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\train
    val: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\val
    test: C:\Users\abyla\OneDrive\Рабочий стол\project\dataset\images\test
+10 **Установить cuda для вашей видеокарты Например(для rtx 3060)**
+   ```bash
+   pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+Для других видеокарт можете посмотреть по ссылке
+   ```bash
+   https://pytorch.org/get-started/locally/
