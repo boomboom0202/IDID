@@ -12,7 +12,7 @@
    cd IDID
 2. **Скачайте датасет:**
    ```bash
-   Ссылка на датасет
+   https://drive.google.com/file/d/1WUmkx7HFu6ecRcGCK1OVC_uUtwt3pISL/view?usp=drive_link
 4. **Создайте виртуальное окружение:**
    ```bash
    python -m venv env
