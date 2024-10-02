@@ -5,7 +5,7 @@ names:
 - G
 - S
 nc: 5
-path: dataset
+path: fold_2
 train: images/train
 val: images/val
 test: images/test

@@ -1,0 +1,11 @@
+names: 
+- Insulator 
+- B 
+- C
+- G
+- S
+nc: 5
+path: fold_4
+train: images/train
+val: images/val
+test: images/test
